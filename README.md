@@ -42,11 +42,9 @@ Here are some ideas to get you started:
 
 
 <hr>
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alma-Co&layout=compact&theme=outrun&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<div id="first_image" align="right" width="30">
-  <img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif"/>
+<img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif" align="right" width="50"/>
 </div>
 
 <p align="center"> See you soon! have fun 🤓</p>
