@@ -1,4 +1,4 @@
-### Hi 👋🏼 what's the crack?
+### Hi 👋🏼 what's the crack? 🤓
 
 <!--
 **Alma-Co/Alma-Co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 <hr>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alma-Co&layout=compact&theme=outrun&hide_border=true" /></a>
-<img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif" align="right" width="50"/>
+  <img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif" align="left" width="50"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alma-Co&layout=compact&theme=outrun&hide_border=true" /></a>
 </div>
