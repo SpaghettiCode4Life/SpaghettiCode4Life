@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="first_image" align="left">
-  <img src="https://media0.giphy.com/media/xThuWupvyGAPJCHChy/giphy.gif" width="30"/>
+  <img src="https://media0.giphy.com/media/xThuWupvyGAPJCHChy/giphy.gif"/>
 </div>
 
 **About me**
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 <div id="first_image" align="right">
-  <img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif"/>
 </div>
 
 <p align="center"> See you soon! have fun 🤓</p>
