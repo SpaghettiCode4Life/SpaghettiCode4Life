@@ -14,23 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="first_image">
-  <img src="https://media0.giphy.com/media/xThuWupvyGAPJCHChy/giphy.gif" align="left" width="90"/>
-</div>
-
+<div>
+  <img src="https://media0.giphy.com/media/xThuWupvyGAPJCHChy/giphy.gif" align="left"/>
+  
 **About me**
 
 - 💼 FrontEnd Engineer at [Rzilient](https://www.rzilient.club/), professional github account [here](https://github.com/EdithRzilient)
 
 - 🔭 Discovering most of Javascript frameworks in my free time
 
-- 👯 I’m looking to collaborate on small team side projects, preferably artistic, graphical or playful
+- 👯 I’m looking to collaborate on small team side projects, preferably graphical or playful
 
 - ❤️ Love and hate React with Redux
 
 - 💬 Ask me about anything [here](https://github.com/Alma-Co/Alma-Co/issues)
 
 - 📫 How to reach me: On my [linkedIn profile](https://www.linkedin.com/in/edithcantegrit/)
+</div>
+
 
 
 
