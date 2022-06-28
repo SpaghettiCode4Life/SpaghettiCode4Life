@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="first_image" align="left" width="20">
-  <img src="https://media0.giphy.com/media/xThuWupvyGAPJCHChy/giphy.gif"/>
+<div id="first_image">
+  <img src="https://media0.giphy.com/media/xThuWupvyGAPJCHChy/giphy.gif" align="left" width="50"/>
 </div>
 
 **About me**
@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 
 <hr>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alma-Co&layout=compact&theme=outrun&hide_border=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alma-Co&layout=compact&theme=outrun&hide_border=true" /></a>
 <img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif" align="right" width="50"/>
 </div>
-
-<p align="center"> See you soon! have fun 🤓</p>
