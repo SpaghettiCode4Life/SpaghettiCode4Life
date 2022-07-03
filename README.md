@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
   <img src="https://media0.giphy.com/media/xThuWupvyGAPJCHChy/giphy.gif" height="300" align="left"/>
-  
+<div align="right">  
 **About me**
 
 -    💼 FrontEnd Engineer at [Rzilient](https://www.rzilient.club/), professional github account [here](https://github.com/EdithRzilient)
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 -    💬 Ask me about anything [here](https://github.com/Alma-Co/Alma-Co/issues)
 
 -    📫 How to reach me: On my [linkedIn profile](https://www.linkedin.com/in/edithcantegrit/)
+</div>
 </div>
 
 
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div>
-  <img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif" align="left" width="50"/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alma-Co&layout=compact&theme=outrun&hide_border=true" /></a>
+  <img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif" align="center" width="50"/>
+  <br>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alma-Co&layout=compact&theme=outrun&hide_border=true" /></a>
 </div>
