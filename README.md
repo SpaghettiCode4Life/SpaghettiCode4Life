@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 - 🔭 Discovering most of Javascript frameworks in my free time
 
-- 👯 I’m looking to collaborate on small team side projects, preferably graphical or playful
+- 👯 I’m looking to collaborate on small team side projects, 
+   <br>
+  preferably graphical or playful
 
 - ❤️ Love and hate React with Redux
 
