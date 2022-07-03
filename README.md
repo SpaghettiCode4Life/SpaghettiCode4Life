@@ -19,17 +19,17 @@ Here are some ideas to get you started:
   
 **About me**
 
-- 💼 FrontEnd Engineer at [Rzilient](https://www.rzilient.club/), professional github account [here](https://github.com/EdithRzilient)
+-    💼 FrontEnd Engineer at [Rzilient](https://www.rzilient.club/), professional github account [here](https://github.com/EdithRzilient)
 
-- 🔭 Discovering most of Javascript frameworks in my free time
+-    🔭 Discovering most of Javascript frameworks in my free time
 
-- 👯 I’m looking to collaborate on small team side projects, preferably graphical or playful
+-    👯 I’m looking to collaborate on small team side projects, preferably graphical or playful
 
-- ❤️ Love and hate React with Redux
+-    ❤️ Love and hate React with Redux
 
-- 💬 Ask me about anything [here](https://github.com/Alma-Co/Alma-Co/issues)
+-    💬 Ask me about anything [here](https://github.com/Alma-Co/Alma-Co/issues)
 
-- 📫 How to reach me: On my [linkedIn profile](https://www.linkedin.com/in/edithcantegrit/)
+-    📫 How to reach me: On my [linkedIn profile](https://www.linkedin.com/in/edithcantegrit/)
 </div>
 
 
