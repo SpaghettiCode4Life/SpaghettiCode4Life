@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
+<img src="https://media0.giphy.com/media/xThuWupvyGAPJCHChy/giphy.gif" height="300" align="right"/>
 <div align="left">  
 **About me**
 
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: On my [linkedIn profile](https://www.linkedin.com/in/edithcantegrit/)
 </div>
-<img src="https://media0.giphy.com/media/xThuWupvyGAPJCHChy/giphy.gif" height="300" align="right"/>
+
 </div>
 
 
