@@ -50,5 +50,5 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif" align="center" width="50"/>
   <br>
   <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alma-Co&layout=compact&theme=outrun&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaghettiCode4Life&layout=compact&theme=outrun&hide_border=true" /></a>
 </div>
