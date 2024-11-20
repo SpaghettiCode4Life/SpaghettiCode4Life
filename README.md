@@ -1,7 +1,7 @@
 ### Hi 👋🏼 what's the crack? 🤓
 
 <!--
-**Alma-Co/Alma-Co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SpaghettiCode4Life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="left">  
 **About me**
 
-- 💼 FrontEnd Engineer at [LeadTech](https://leadtech.com/), you can find my printable CV [here](https://edintech-cv.vercel.app/){:target="_blank"} 
+- 💼 FrontEnd Engineer at [LeadTech](https://leadtech.com/), you can find my printable CV <a target="_blank" href="https://edintech-cv.vercel.app/">here</a>
 
 - 👯 I’m looking to collaborate on small team side projects, preferably graphical or playful
 
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   
 - 🔭 Discovering Javascript frameworks in my free time
 
-- 💬 Ask me about anything [here](https://github.com/Alma-Co/Alma-Co/issues)
+- 💬 Ask me about anything [here](https://github.com/SpaghettiCode4Life/SpaghettiCode4Life/issues)
 
-- 📫 How to reach me: On my [linkedIn profile](https://www.linkedin.com/in/edithcantegrit/)
+- 📫 How to reach me: On my <a target="_blank" href="https://www.linkedin.com/in/edithcantegrit/">linkedIn profile</a>
 </div>
 
 </div>
