@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="left">  
 **About me**
 
-- 💼 FrontEnd Engineer at [LeadTech](https://leadtech.com/), you can find my printable CV [here](https://edintech-cv.vercel.app/)
+- 💼 FrontEnd Engineer at [LeadTech](https://leadtech.com/), you can find my printable CV [here](https://edintech-cv.vercel.app/){:target="_blank"} 
 
 - 👯 I’m looking to collaborate on small team side projects, preferably graphical or playful
 
